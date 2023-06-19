@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "expo-cli": "^6.3.8",
+    "react-native": "0.71.8",
+    "react-native-dropdown-select-list": "^2.0.4",
+    "react-native-picker": "^4.3.7",
+    "react-native-web": "~0.18.11"
+  }
+}
